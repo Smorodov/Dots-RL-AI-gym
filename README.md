@@ -6,8 +6,8 @@ python library built wsing vs2019, result dotslib_py.cp38-win_amd64.pyd library 
 
 Game (played by AI vs AI) state shot.
 
-![](build/Release/board.bmp)
+![](board.bmp)
 
 Game human version interface.
 
-![](build/Release/screenshot.png)
+![](screenshot.png)
